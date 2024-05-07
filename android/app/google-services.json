@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626763384116",
+    "project_id": "kholoud-7f717",
+    "storage_bucket": "kholoud-7f717.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626763384116:android:a4c3b077e08ea52ab59161",
+        "android_client_info": {
+          "package_name": "com.example.shawky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9-6YE9BATyGxf6thcDEyFrSPREJ-Qvxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
